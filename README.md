@@ -1,3 +1,3 @@
 # notifier_flutter
 
-Download apk from Release
+Download apk from https://github.com/solarmikusa/notifier_flutter/releases
